@@ -5,6 +5,11 @@ This repository is intended for participants who will learn how to use AI tools 
 
 ![TaskWise](https://img.shields.io/badge/TaskWise-v1.0.0-blue)
 
+> ⚠️ **WARNING**
+>
+> All project outputs (code, designs, reports, etc.) were **generated with AI assistance** and may contain **inaccuracies, logical errors, security vulnerabilities, or ethical biases**. This blueprint is for demonstration and learning; outputs **require human review, validation, and correction** before being used in a production environment.
+
+
 ## Table of Contents
 
 - [Case Study](#case-study)
@@ -26,6 +31,7 @@ This repository is intended for participants who will learn how to use AI tools 
 - [Phase - 3 : Coding](#phase---3--coding)
     - [GitHub AI Copilot](#tool-11--github-ai-copilot)
 - [Acknowledgements](#acknowledgements)
+- [Contributions](#contributions)
 
 ## Case Study
 
@@ -183,14 +189,25 @@ Here we have used different tools but same template:
 
 > [General Prompt Template](general_prompts/stitch_general_prompt.txt)
 
-# Phase - 3 : Coding
+### Tool 11 : [Canva AI](https://www.canva.com/ai-logo-generator/)
+
+The process of creating a unique visual symbol or icon that represents the project’s identity, values, and brand.
+
+[Logo Prompt Template](prompts/canva_prompt.txt)
 
 
-The Coding phase in the Software Development Life Cycle (SDLC) is when engineers and developers get down to business and start converting the software design into tangible code.
+**Outputs**
+![Canva Logo Output](outputs/canva_output_1.jpg)
+
+![Canva Logo Output](outputs/canva_output_2.jpg)
+
+> [General Prompt Template](general_prompts/canva_general_prompt.txt)
+
+# Phase - 3 : Coding & Documentation
 
 This development phase aims to develop software that is functional, efficient, and user-friendly. Developers use an appropriate programming language, Java or otherwise, to write the code, guided by the SDD and coding guidelines. This document, acting as a roadmap, ensures the software aligns with the vision set in earlier phases. [[1]](#acknowledgements)
 
-### Tool 11 : [GitHub AI Copilot](https://github.com/features/copilot)
+### Tool 12 : [GitHub AI Copilot](https://github.com/features/copilot)
 
 
 With minimal prompting and concise instructions about our project, **GitHub AI Copilot** was able to generate functional and well-structured code for **TaskWise**. The AI assisted in implementing core features such as **task creation, assignment, tracking, and project organization**, while also adhering to best practices in **readability, modularity, and maintainability**. This significantly accelerated the development process, allowing the team to focus on **refining the user experience** and integrating additional functionalities.
@@ -258,6 +275,12 @@ Enhance the website's aesthetic appeal to align with professional industry stand
 - [Output – Backend Code](code/TaskWise/backend/)
 - [Output – Frontend Code](code/TaskWise/frontend/)
 
+---
+
 # Acknowledgements
 
 1. [The Seven Phases of the Software Development Life Cycle, Harness](https://www.harness.io/blog/software-development-life-cycle-phases)
+
+# Contributions
+
+[Neelkanth Khithani](https://github.com/Neelkanth-khithani), [Kedaar Kate](https://github.com/KedaarK), [Manish Raje](https://github.com/manishraje28/), [Vivan Tulsi](https://github.com/Vivan1611/), [Taha Sayyed](https://github.com/786-sys), [Jaee Sakharkar](https://github.com/JaeeSakharkar), [Sanskruti Ukarande](https://github.com/sanskrutiuk), [Riddhi Motwani](https://github.com/riddhimotwani), [Mahek Hingorani](https://github.com/Mahek2710), Amogh More
