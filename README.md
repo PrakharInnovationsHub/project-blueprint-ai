@@ -200,6 +200,7 @@ The process of creating a unique visual symbol or icon that represents the proje
 
 
 **Outputs**
+
 ![Canva Logo Output](outputs/canva_output_1.jpg)
 
 ![Canva Logo Output](outputs/canva_output_2.jpg)
