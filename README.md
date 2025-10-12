@@ -130,16 +130,16 @@ Here we have used different tools but same template:
 
 ### Tool 6 : [Lucidchart](https://www.lucidchart.com/pages/use-cases/diagram-with-AI)
 
-- [Userflow Diagram (.png)](outputs/lucidchart_output_userflow.png)
+![Userflow Diagram (.png)](outputs/lucidchart_output_userflow.png)
 
   
-- [Architecture Diagram (.png)](outputs/lucidchart_output_architecture.png)
+![Architecture Diagram (.png)](outputs/lucidchart_output_architecture.png)
 
 ### Tool 7 : [Micro](https://miro.com/ai/flowchart-ai/)
  
-- [Userflow Diagram (.jpg)](outputs/miro_output_userflow.jpg)
+![Userflow Diagram (.jpg)](outputs/miro_output_userflow.jpg)
 
-- [Architecture Diagram (.jpg)](outputs/miro_output_architecture.jpg)
+![Architecture Diagram (.jpg)](outputs/miro_output_architecture.jpg)
 
 
 > [General User Flow Diagram Prompt Template](general_prompts/general_prompt_userflow.txt)
