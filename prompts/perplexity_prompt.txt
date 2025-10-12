@@ -1,0 +1,39 @@
+﻿You are a market research expert:
+Task:
+
+1. Identifying Competitors
+
+List the top direct and indirect competitors in the market for TASKWISE – Smart Team Task & Collaboration Manager.
+
+Concept: TaskWise is a lightweight team task management web application designed for students, small teams, or hobbyist projects. It allows users to create, assign, and track tasks, organize work within projects or groups, and visualize task progress through dashboards and lists.
+
+Briefly describe each competitor’s main offerings and their market presence.
+
+2. Comparative Analysis
+
+Analyze the product alongside its top three competitors across key dimensions:
+
+- Key features & core value proposition
+- Market positioning and pricing strategy
+- User or customer experience
+- Technology, service ecosystem, and unique selling propositions (USPs)
+- Recent innovations and/or strategic partnerships
+
+Create a side-by-side comparison chart or table summarizing these aspects.
+
+3. SWOT Analysis
+
+For the product and each competitor (or at least the main one), provide a thorough SWOT analysis:
+
+- Strengths: What are the product’s advantages over others?
+- Weaknesses: Where does it fall short or lag behind?
+- Opportunities: Which external trends or market shifts could be leveraged?
+- Threats: What external challenges, risks, or emerging competitors exist?
+
+4. Synthesis and Recommendation
+
+Based on the comparative and SWOT analysis, highlight:
+
+- What makes the product unique or vulnerable compared to its competitors?
+- Where is there the greatest room for growth or improvement?
+- What strategic moves could help it grow market share or defend against competitive threats?

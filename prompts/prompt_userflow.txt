@@ -1,0 +1,36 @@
+ Prompt 2 — User Flowchart (for TaskWise)
+Prompt:
+ Generate a user flow diagram for TaskWise, a team task and collaboration management app.
+ Show how a user interacts with the system from login to task completion.
+ Include these steps:
+User Registration/Login (via email or Google OAuth)
+
+
+Dashboard Access – User views ongoing projects and tasks.
+
+
+Create Project – User creates a new project or joins an existing one.
+
+
+Add Tasks – User adds new tasks with title, description, priority, and deadline.
+
+
+Assign Tasks – Tasks are assigned to team members.
+
+
+Track Progress – Team members update task status (To Do → In Progress → Done).
+
+
+View Analytics – Dashboard displays task progress and workload distribution.
+
+
+Collaboration – Users comment or chat within the project to discuss tasks.
+
+
+Notifications – System notifies users about task updates, deadlines, or mentions.
+
+
+Logout or End Session.
+
+
+Represent user decision points (like “Login successful?”) with diamonds and show loops for repeated task updates.

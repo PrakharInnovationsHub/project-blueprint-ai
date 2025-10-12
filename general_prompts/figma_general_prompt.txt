@@ -1,0 +1,78 @@
+### Generalized Figma Prototype Prompt
+
+**Project Title:**  
+Design a high-fidelity Figma prototype for **[App Name]**, a **[mobile/web-based platform]** focused on **[target users]** and **[main goal or purpose]**.  
+Ensure the design emphasizes **usability, clarity, and responsiveness** across devices.
+
+---
+
+#### Core Functional Requirements
+
+1. **Feature 1 – Core Functionality**  
+   Describe the main feature’s purpose and how users interact with it (e.g., task creation, data entry, or interaction flow). Include buttons, forms, input fields, or cards as needed.
+
+2. **Feature 2 – User Interaction Flow**  
+   Define how users perform key actions (e.g., assign, update, share). Specify the main UI components required such as dropdowns, sliders, or toggles.
+
+3. **Feature 3 – Visualization & Status Tracking**  
+   Include dashboards, charts, or progress indicators for real-time feedback. Enable notifications, badges, and alert systems for user updates.
+
+4. **Feature 4 – Collaboration & Settings**  
+   Add features for team communication, account preferences, and permission settings. Design an intuitive navigation flow for managing user roles or groups.
+
+5. **Feature 5 – Premium or Integration Features**  
+   Define optional advanced features or integrations (e.g., AI suggestions, analytics, payment plans). Show clear upgrade or subscription flow.
+
+6. **Feature 6 – Responsive Design**  
+   Ensure optimized layouts for desktop, tablet, and mobile. Use adaptive grids, collapsible menus, and touch-friendly components.
+
+---
+
+#### Design Guidelines
+
+- **UI Style:** Modern, clean, and minimalistic.  
+- **Color Palette:** Professional blend of primary, accent, and neutral tones that reflect the brand identity.  
+- **Typography:**  
+  - Headings: Poppins / Montserrat  
+  - Body Text: Inter / Roboto  
+  - Maintain hierarchy and readability.  
+- **Iconography:** Consistent icon set (e.g., Feather, Material, or Remix icons).  
+- **Layout Principles:** Logical grouping, white space balance, and clear visual hierarchy.
+
+---
+
+#### Prototype Interactions
+
+- Include hover states, active button animations, and smooth transitions.  
+- Create interactive navigation between all key screens.  
+- Simulate:  
+  - Notifications and alerts  
+  - Pop-up modals  
+  - Confirmation dialogs  
+  - Progress updates
+
+---
+
+#### Deliverables
+
+- **Figma Project:**  
+  Minimum 6–8 linked screens, including:  
+  1. Landing / Login Page  
+  2. Dashboard / Home Screen  
+  3. Task / Project Management Page  
+  4. Profile / Settings Page  
+  5. Analytics / Reports Page  
+  6. Premium / Payment Page  
+
+- **Design Specification Document:**  
+  Include details such as:  
+  - Color palette (Hex codes)  
+  - Typography hierarchy  
+  - Icon set and usage  
+  - Component structure (buttons, cards, modals)  
+  - Responsive layout breakpoints
+
+---
+
+**Goal:**  
+Deliver a visually consistent, easy-to-use, and interactive prototype that clearly communicates user journeys and functional workflows for **[App Name]**.

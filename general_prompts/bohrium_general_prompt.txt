@@ -1,0 +1,55 @@
+You are an expert technical research analyst and systems architect.
+I am conducting technical research on the product/project titled “[Insert your Product/Project Name or Topic Here]”.
+
+Please provide a comprehensive and detailed technical research report that includes the following sections:
+
+1. Introduction
+Give a brief overview of the product/project and its purpose.
+Define the core problem it aims to solve.
+Mention the relevance of this product in the current technological landscape.
+
+2. Technical Background
+Describe the underlying technologies, frameworks, and scientific principles relevant to this domain (e.g., AI, IoT, Cloud Computing, Embedded Systems, etc.).
+Include current industry trends, innovations, or challenges in this field.
+
+3. System Architecture / Design Overview
+Present a high-level system architecture or conceptual design (hardware + software components).
+Explain how each component interacts (e.g., sensors, microcontrollers, databases, APIs, AI models, frontend/backend layers).
+Suggest appropriate tools, platforms, or programming languages for implementation.
+If applicable, describe data flow or block diagrams in words.
+
+4. Technical Methodology
+Detail the workflow and technologies to be used at each stage.
+Specify models, algorithms, protocols, or tools relevant to the system.
+For AI/ML projects: explain model selection, dataset, training, and evaluation approach.
+For IoT or hardware projects: describe sensors, communication protocols, microcontrollers, and data transmission logic.
+Include software development lifecycle (SDLC) or research methodology if applicable.
+
+5. Implementation Plan
+Outline the phases of development (planning, design, development, testing, deployment).
+Suggest tools, libraries, frameworks, and platforms for each phase.
+Mention integration points (e.g., cloud, APIs, or data analytics tools).
+Highlight any technical dependencies or prerequisites.
+
+6. Evaluation Metrics
+Define the metrics to evaluate the product’s performance (e.g., accuracy, latency, cost-efficiency, scalability, sustainability).
+Explain how success or impact will be measured.
+
+7. Comparative Analysis
+Compare your proposed system with existing similar technologies or products.
+Highlight advantages, limitations, and innovations in your approach.
+
+8. Challenges and Limitations
+Identify potential technical and operational challenges.
+Suggest ways to mitigate these risks.
+
+9. Future Enhancements
+Propose upgrades, scalability options, or future research directions.
+Mention possibilities for AI integration, automation, or expansion to other domains.
+
+10. Conclusion
+Summarize the technical feasibility, innovation, and impact potential of the product/project.
+
+11. References (Optional)
+Cite credible sources, standards, frameworks, or whitepapers that support your analysis.
+Make the tone professional, research-oriented, and suitable for inclusion in a technical research report or project documentation. Use clear section headings and bullet points for readability.

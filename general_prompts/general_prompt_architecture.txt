@@ -1,0 +1,27 @@
+🏗️ Generalized Prompt — System Architecture Diagram
+
+Prompt:
+Create a system architecture diagram for a web-based application.
+Include and label the following components clearly:
+
+Frontend Layer: Handles user interface and client-side logic (e.g., React, Angular, or Vue).
+
+Backend Layer: Processes requests, applies business logic, and communicates with the database (e.g., Node.js, Django, or Spring Boot).
+
+Database Layer: Stores user data, application data, and logs (e.g., MongoDB, MySQL, or PostgreSQL).
+
+Authentication Module: Manages user login, registration, and access control (e.g., JWT or OAuth).
+
+External Services / APIs: For notifications, analytics, or third-party integrations.
+
+Hosting / Cloud Infrastructure: Depict deployment on cloud platforms like AWS, Azure, or GCP.
+
+Show clear data flow between layers using arrows — for example:
+
+Frontend ↔ Backend via REST or GraphQL API
+
+Backend ↔ Database for data storage and retrieval
+
+Backend ↔ External services for notifications or integrations
+
+Structure the diagram into layers (UI, API, Data, Services) and show logical relationships among all components.

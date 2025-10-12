@@ -1,0 +1,10 @@
+Find recent (preferably 2018–2025) research papers related to web-based task management systems, team collaboration tools, productivity dashboards, and project tracking applications.
+The focus is on lightweight, user-friendly platforms built for small teams, students, or hobbyist groups — emphasizing collaboration, task tracking, and visualization of progress (dashboards, Kanban, etc.).
+Include studies or papers covering:
+Web-based task management and productivity tools
+Collaboration and coordination in small teams or student projects
+Design and usability of dashboards or task visualization interfaces
+AI-driven or smart task prioritization and workload distribution
+Open-source or low-resource management systems for teams
+I am researching for a product concept named “TaskWise – Smart Team Task & Collaboration Manager”, which aims to simplify team coordination, task creation, assignment, and progress tracking in an academic or small-team context.
+Please provide relevant academic papers, conference proceedings, or technical reports that align with these objectives, along with summaries, key findings, and methods used in each paper.

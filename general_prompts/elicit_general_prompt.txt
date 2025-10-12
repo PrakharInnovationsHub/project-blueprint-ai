@@ -1,0 +1,14 @@
+Find recent (preferably 2018–2025) research papers related to [insert main topic or domain here].
+The focus should be on [insert focus area or purpose — e.g., lightweight, efficient, user-friendly, or AI-powered systems], emphasizing [insert key features — e.g., collaboration, automation, analytics, visualization, etc.].
+Include studies or papers covering:
+[insert related subtopics — e.g., system design, architecture, AI models, IoT integration, etc.]
+[insert specific functionality or challenge — e.g., workflow optimization, data-driven decision-making, real-time monitoring, etc.]
+[insert any design or UX aspect — e.g., dashboard visualization, user interaction design, etc.]
+[insert any technical scope — e.g., low-resource systems, scalable cloud frameworks, embedded devices, etc.]
+I am conducting technical research for a product/project titled “[insert your project or product name here]”, which aims to [insert project goal or mission — e.g., simplify operations, automate processes, enhance collaboration, etc.].
+Please provide relevant academic papers, conference proceedings, or technical reports that align with these objectives.
+For each paper, include:
+Title and publication details
+Brief summary of the study
+Key findings or contributions
+Methods, frameworks, or technologies used

@@ -1,0 +1,50 @@
+Core Functional Requirements – Smart Team Task & Collaboration Manager (TaskWise)
+
+
+1. Task Creation Interface
+- Design an intuitive interface for creating new tasks.
+- Include input fields for task title, description, due date, priority, and file attachments.
+- Provide a clear “Add Task” button and confirmation modal for saving tasks.
+- Support editing and deleting existing tasks with ease.
+
+
+2. Task Assignment and Tracking
+- Allow task assignment to team members via dropdown or tagging system.
+- Display progress tracking indicators such as To-Do, In Progress, and Completed.
+- Implement notification badges and color-coded status indicators for real-time updates.
+- Enable quick filtering by user, due date, or project status.
+
+
+3. Project and Group Organization
+- Allow users to create and manage multiple projects or groups.
+- Support categorization and prioritization of tasks using color labels or tags.
+- Include a collapsible sidebar for quick access to different projects.
+- Enable sorting and grouping of tasks by priority, deadline, or team member.
+
+
+4. Dashboard and Visualization
+- Create a central dashboard displaying all active projects and task summaries.
+- Offer both list view and Kanban-style board view options.
+- Present visual metrics such as task completion rate, overdue tasks, and upcoming deadlines.
+- Include quick access shortcuts for creating tasks or switching between projects.
+
+
+5. User Interface and Experience Enhancements
+- Maintain a clean, minimal, and productivity-focused interface.
+- Provide quick actions like Edit, Delete, or Mark as Complete on each task card.
+- Ensure seamless navigation between Dashboard, Projects, and Profile pages.
+- Highlight active sections for user clarity and consistency.
+
+
+6. Responsive Design
+- Design fully responsive layouts for desktop, tablet, and mobile devices.
+- Implement adaptive navigation bars and collapsible menus for smaller screens.
+- Ensure touch-friendly task cards, buttons, and drag-and-drop task management on mobile.
+- Maintain consistent design and usability across all devices.
+
+
+Design Guidelines
+- Color Palette: Blue (#2563EB), Green (#10B981), Light Gray (#F3F4F6), Dark Text (#111827)
+- Typography: Poppins (headings), Inter (body)
+- Icons: Use Feather or Material icons for tasks, alerts, and navigation.
+- Layout: Grid-based with proper spacing, white space balance, and clear visual hierarchy.

@@ -1,0 +1,27 @@
+Design a clean, responsive Figma prototype for TaskWise, a smart team task and collaboration manager for students and small teams.
+Include these key screens:
+1. Dashboard/Home: Overview of projects, task stats, and quick actions.
+
+2. Task Creation: Simple form with title, description, due date, priority, and assign-to options.
+
+3. Task Tracking: Kanban or list view with status (To-Do, In Progress, Done) and filters.
+
+4. Projects/Groups: Organize tasks under projects or categories with color tags.
+
+5. Profile & Settings: Manage user info, preferences, and notifications.
+
+6. Analytics/Reports: Show task completion rate and upcoming deadlines.
+
+Design style:
+   * Minimal, modern, and productivity-focused.
+
+   * Colors: Blue (#2563EB), Green (#10B981), Light Gray (#F3F4F6), Dark Text (#111827).
+
+   * Fonts: Poppins for headings, Inter for body text.
+
+   * Use icons for tasks, alerts, and navigation.
+
+   * Responsive layout for desktop, tablet, and mobile.
+
+Goal:
+ Deliver an intuitive prototype that enables users to create, assign, track, and visualize team tasks efficiently.

@@ -1,0 +1,15 @@
+Design a modern, responsive web app UI for TaskWise – Smart Team Task & Collaboration Manager.
+The app helps students and small teams create, assign, and track tasks within projects.
+Use a clean, productivity-focused style with blue #2563EB, green #22C55E, light gray #F9FAFB, dark text #111827.
+Fonts: Poppins (headings) + Inter (body).
+Key Screens:
+ • Home/Dashboard: Overview cards (Active, Completed, Overdue), task summary chart, quick “Create Task” button, Kanban/List toggle.
+• Task/Project Page: Grouped task cards (To-Do, In Progress, Done); Add Task form (title, description, assignee, priority, due date, attachments); color-tag projects.
+• Team Page: Member list with avatars, roles, and online indicators; invite via email.
+• Reports/Analytics: Graphs for completion rate, workload, and deadlines; export CSV/PDF.
+• Profile & Settings: Manage info, notifications, and preferences.
+Navigation: Top bar with logo (left), links (Home | Dashboard | Projects | Teams | Reports | Profile), right side = Notifications + Avatar menu. Mobile = hamburger drawer.
+Layout: Responsive grid (3-col desktop → 1-col mobile); collapsible side nav; touch-friendly drag-drop Kanban.
+Interactions: Smooth transitions, toast alerts, loading skeletons, hover states.
+Accessibility: High contrast, ARIA labels, keyboard navigation.
+Goal: Deliver an intuitive, minimal prototype that lets users plan, collaborate, and track tasks effortlessly across devices.

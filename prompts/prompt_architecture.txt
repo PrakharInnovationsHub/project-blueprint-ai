@@ -1,0 +1,41 @@
+System Architecture Diagram (for TaskWise)
+Prompt:
+Create a system architecture diagram for a web-based task and collaboration management application called TaskWise.
+ The system includes:
+Frontend: React.js (web client) with responsive UI for task creation, assignment, and dashboards.
+
+
+Backend: Node.js with Express.js REST API handling task management, authentication, and data communication.
+
+
+Database: MongoDB storing users, projects, tasks, comments, and activity logs.
+
+
+Authentication Module: JWT-based user login and role-based access control (admin, member).
+
+
+Notifications Service: Sends real-time updates and email/push notifications for task status or deadlines.
+
+
+Optional Integration: Google OAuth for quick sign-in.
+
+
+Hosting Environment: Deployed on cloud (e.g., AWS or Render) with separate frontend and backend servers.
+
+
+Connections:
+
+
+Frontend communicates with backend via REST API
+
+
+Backend connects to database and notification service
+
+
+Authentication verifies tokens on every protected route
+
+
+Dashboard fetches analytics from backend
+
+
+Display components clearly: user interface layer, API layer, database layer, and external services. Use arrows to show data flow between components.

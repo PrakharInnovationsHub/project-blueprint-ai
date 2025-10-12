@@ -1,0 +1,18 @@
+Design a modern, responsive web or app UI for [Project Name].
+The app/platform is intended to [briefly describe purpose, e.g., manage tasks, track projects, organize events, or facilitate learning].
+Use a clean, minimal, and user-friendly design style with a suitable color palette and readable typography.
+Key Screens / Features:
+      * Dashboard/Home: Overview of key metrics or items, summary charts, quick actions, and toggleable views (list, grid, or Kanban).
+
+      * Main Functional Page (e.g., Tasks/Projects/Items): Grouped cards or lists; add/edit forms with fields such as title, description, assignee, priority, due date, attachments; optional color-coded tags or categories.
+
+      * Team/Users Page (optional): Member list with roles/status; invite, remove, or manage users.
+
+      * Reports/Analytics (optional): Visual charts, performance stats, and export options.
+
+      * Profile & Settings: Manage personal info, notifications, and preferences.
+
+Navigation: Top or side navigation with logo, main links, notifications, and user menu. Include a mobile-friendly responsive menu (hamburger or collapsible).
+Layout & Interaction: Responsive grid layout, touch-friendly interactions, smooth transitions, toast notifications, hover effects, and loading indicators.
+Accessibility: High contrast, keyboard navigation, ARIA labels, screen reader support.
+Goal: Create an intuitive, minimal, and visually appealing prototype that allows users to [briefly describe main action, e.g., plan, manage, or track activities efficiently] across devices.

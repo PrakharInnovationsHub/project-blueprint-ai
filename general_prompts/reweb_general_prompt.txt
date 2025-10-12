@@ -1,0 +1,18 @@
+Design a modern, responsive web or app UI for a productivity or collaboration platform.
+The app should allow users to create, manage, and track items, tasks, or projects efficiently.
+Use a clean, minimal, and productivity-focused design style with a clear color palette and readable typography.
+Key Screens / Features:
+      * Dashboard/Home: Overview cards or metrics, summary charts, quick actions, toggleable views (list, grid, or Kanban).
+
+      * Item/Task/Project Page: Grouped cards, add/edit forms with fields like title, description, assignee, priority, due date, and attachments; support color-coded tags or categories.
+
+      * Team/Users Page: Member list with roles/status, invite and manage users.
+
+      * Reports/Analytics: Visual charts, performance metrics, export options.
+
+      * Profile & Settings: Manage personal info, notifications, and preferences.
+
+Navigation: Top or side navigation with logo, main links, notifications, and user menu. Mobile-friendly responsive menu (hamburger or collapsible).
+Layout & Interaction: Responsive grid, touch-friendly interactions, smooth transitions, toast notifications, hover states, loading indicators.
+Accessibility: High contrast, keyboard navigation, ARIA labels, screen reader support.
+Goal: Create an intuitive, minimal, and visually appealing prototype that lets users plan, manage, and track activities effectively across devices.

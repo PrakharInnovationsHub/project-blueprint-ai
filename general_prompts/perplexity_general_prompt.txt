@@ -1,0 +1,18 @@
+﻿General Prompt:
+"Perform a strategic business analysis for [Product or Company Name] by following these steps:
+1. Competitor Identification:
+   * Find the top three to five direct and indirect competitors in the same market.
+   * Provide a brief overview of each competitor’s offerings, unique selling points, and market share.
+2. Comparative Analysis:
+   * Create a detailed comparative matrix between [Product or Company Name] and its main competitors, focusing on:
+      * Key features and service differentiation
+      * Pricing structure and value proposition
+      * Customer satisfaction levels, reviews, and loyalty programs
+      * Technology, partner/integration ecosystem, and scalability
+      * Recent innovations or expansion strategies
+3. SWOT Analysis:
+   * Perform a SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) for [Product or Company Name].
+   * (Optional) Summarize notable SWOT highlights of the main competitor to contextualize the comparison.
+4. Strategic Synthesis and Recommendations:
+   * Based on your findings, identify the competitive advantages, areas of risk, and strategic opportunities for [Product or Company Name].
+   * Conclude with actionable recommendations for defending or growing its market position."

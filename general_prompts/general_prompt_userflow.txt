@@ -1,0 +1,25 @@
+Generalized Prompt — User Flow Diagram
+
+Prompt:
+Generate a user flow diagram for a web or mobile application that supports multiple features.
+Represent how a user interacts with the system from entry to exit.
+
+Include the following generalized steps:
+
+User Entry: User opens the application and logs in or registers.
+
+Dashboard or Home Screen: User sees key options or an overview of their data.
+
+Core Action: User performs the main action (e.g., create, upload, view, or manage something).
+
+Collaboration or Sharing (if applicable): User interacts with others or shares content.
+
+Progress Tracking / Feedback: System shows status, progress, or confirmation messages.
+
+Notifications or Alerts: User receives updates or reminders.
+
+Settings or Profile Management: User updates preferences or account information.
+
+Logout or Exit: User ends the session.
+
+Represent decision points (like “Login successful?” or “Action confirmed?”) with diamonds and use loops to indicate repeated actions such as task updates or data refreshes.
