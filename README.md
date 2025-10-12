@@ -130,15 +130,18 @@ Here we have used different tools but same template:
 
 ### Tool 6 : [Lucidchart](https://www.lucidchart.com/pages/use-cases/diagram-with-AI)
 
+**User Flow Diagram** 
 ![Userflow Diagram (.png)](outputs/lucidchart_output_userflow.png)
 
-  
+**Architecture Diagram**  
 ![Architecture Diagram (.png)](outputs/lucidchart_output_architecture.png)
 
 ### Tool 7 : [Micro](https://miro.com/ai/flowchart-ai/)
  
+**User Flow Diagram** 
 ![Userflow Diagram (.jpg)](outputs/miro_output_userflow.jpg)
 
+**Architecture Diagram**  
 ![Architecture Diagram (.jpg)](outputs/miro_output_architecture.jpg)
 
 
