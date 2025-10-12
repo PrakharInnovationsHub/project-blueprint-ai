@@ -2,7 +2,30 @@
 
 This repository is intended for participants who will learn how to use AI tools for **ideation, design, architecture, prototyping, and technical implementation** — all through a single case study project.
 
+
 ![TaskWise](https://img.shields.io/badge/TaskWise-v1.0.0-blue)
+
+## Table of Contents
+
+- [Case Study](#case-study)
+    - [Key Features](#key-features)
+- [Phase - 0 : Planning](#phase---0--planning)
+    - [Ideation and Research](#ideation-and-research)
+        - [Notion AI](#tool-1--notion-ai)
+        - [Elicit](#tool-2--elicit)
+        - [Perplexity](#tool-3--perplexity)
+- [Phase - 1 : Requirements Analysis](#phase---1--requirements-analysis)
+    - [Bohrium AI](#tool-4--bohrium-ai)
+- [Phase - 2 : Design](#phase---2--design)
+    - [Eraser.io](#tool-5--eraserio)
+    - [Lucidchart](#tool-6--lucidchart)
+    - [Miro](#tool-7--micro)
+    - [Figma](#tool-8--figma)
+    - [REWEB](#tool-9--reweb)
+    - [Stitch AI](#tool-10--stitch-ai)
+- [Phase - 3 : Coding](#phase---3--coding)
+    - [GitHub AI Copilot](#tool-11--github-ai-copilot)
+- [Acknowledgements](#acknowledgements)
 
 ## Case Study
 
@@ -160,7 +183,7 @@ Here we have used different tools but same template:
 
 > [General Prompt Template](general_prompts/stitch_general_prompt.txt)
 
-# Phase 3 - Coding
+# Phase - 3 : Coding
 
 
 The Coding phase in the Software Development Life Cycle (SDLC) is when engineers and developers get down to business and start converting the software design into tangible code.
@@ -238,6 +261,3 @@ Enhance the website's aesthetic appeal to align with professional industry stand
 # Acknowledgements
 
 1. [The Seven Phases of the Software Development Life Cycle, Harness](https://www.harness.io/blog/software-development-life-cycle-phases)
-
-
-
