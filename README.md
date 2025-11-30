@@ -28,8 +28,8 @@ This repository is intended for participants who will learn how to use AI tools 
     - [Figma](#tool-8--figma)
     - [REWEB](#tool-9--reweb)
     - [Stitch AI](#tool-10--stitch-ai)
-- [Phase - 3 : Coding](#phase---3--coding)
-    - [GitHub AI Copilot](#tool-11--github-ai-copilot)
+- [Phase - 3 : Coding](#phase---3--coding--documentation)
+    - [GitHub AI Copilot](#tool-12--github-ai-copilot)
 - [Acknowledgements](#acknowledgements)
 - [Contributions](#contributions)
 
