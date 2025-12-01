@@ -1,0 +1,90 @@
+📌 Project Overview
+
+Project Name: {PROJECT_NAME}
+Project Description: {PROJECT_DESCRIPTION}
+
+The goal is to build a fully functional, production-ready web application with seamless frontend-backend integration.
+
+📌 Task Requirements
+
+Design and implement both the frontend and backend, ensuring complete integration.
+
+Use a consistent tech stack across the project.
+
+Build a clean, intuitive, user-friendly interface.
+
+Implement all required features, including:
+
+{FEATURES_LIST}
+
+Create dashboards, lists, and UI components for visualizing data where necessary.
+
+📌 Prompt for Frontend Development
+
+Using the chosen tech stack, design and build the frontend for {PROJECT_NAME}.
+Focus on a responsive, accessible, and intuitive UI/UX.
+
+Implement the following frontend features:
+
+{FRONTEND_FEATURES}
+
+Ensure the UI is optimized for mobile and desktop, with clean state management, reusable components, and clear navigation flows.
+
+📌 Prompt for Backend Development
+
+Develop the backend of {PROJECT_NAME} using the selected tech stack.
+Focus on a scalable, secure, and modular architecture.
+
+Implement the following backend features:
+
+{BACKEND_FEATURES}
+
+Ensure clean API design, data validation, secure authentication, and permission handling.
+
+📌 Integration Requirements
+
+Build REST APIs / GraphQL APIs (whichever suits the chosen stack).
+
+Ensure seamless communication between frontend and backend.
+
+Implement proper error handling, input validation, and security best practices.
+
+Protect all sensitive data (passwords, tokens, etc.).
+
+Ensure smooth local setup, development workflow, and environment configuration.
+
+📌 Tech Stack Selection
+
+Choose and justify a suitable and consistent tech stack for:
+
+Frontend Options (choose one):
+React.js, Next.js, Angular, Vue.js
+
+Backend Options (choose one):
+Node.js (Express/NestJS), Django, Flask, FastAPI
+
+Database Options (choose one):
+MongoDB, PostgreSQL, MySQL
+
+The chosen stack should satisfy:
+
+Scalability
+Security
+Developer efficiency
+Community support
+Maintainability
+Provide a detailed explanation for why this tech stack is ideal for {PROJECT_NAME} and how it supports long-term growth.
+
+Expected Output
+
+Using the entire prompt above, produce:
+A complete development plan
+Recommended tech stack
+Project folder structure
+API design
+Frontend component breakdown
+Backend architecture
+Database schema
+Integration approach
+Setup instructions
+Final end-to-end project blueprint ready for implementation
